@@ -24,7 +24,7 @@ Anyone can contribute
 None
 
 ## Credits
-
+Any help I got was from the help of my tutor and learning from the bootcamp courses.
 
 ## License
 None

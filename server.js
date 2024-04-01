@@ -3,16 +3,16 @@ const mysql = require("mysql2");
 const consoleTable = require("console.table");
 
 // Connect to database
-const emptracker_db = mysql.createConnection(
+const tracker_db = mysql.createConnection(
     {
         host: "localhost",
         user: "root",
         password: "",
-        database: "emptracker_db",
+        database: "tracker_db",
     },
 );
 
-emptracker_db.connect(function (err) {
+tracker_db.connect(function (err) {
     if (err) throw err;
     start();
 });
