@@ -1,0 +1,27 @@
+{
+    "name": "Employee_Tracker_DB",
+    "version": "1.0.0",
+    "description": "",
+    "main": "server.js",
+    "scripts": {
+      "test": "",
+      "start": "node server.js"
+    },
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+    },
+    "dependencies": {
+      "and": "^0.0.3",
+      "console.table": "^0.10.0",
+      "inquirer": "^8.2.4",
+      "mysql2": "^2.3.3",
+      "npm": "^8.19.3",
+      "start": "^5.1.0"
+    }
+  }
